@@ -10,20 +10,20 @@ Foi na década de 50 que as primeiras linguagens modernas surgiram. FORTRAN (195
 
 Os paradigmas da programação foram criados, em sua maioria, na década de 70.  Nesta época surgiram:
 
-    Simula: inventada nos anos 1960 por Nygaard e Dahl foi a primeira linguagem a suportar o conceito de classes.
-    C: uma das primeiras linguagens de programação de sistemas, criado por Dennis Ritchie e Ken Thompson, tem uma das maiores influencias no mundo atual.
-    Prolog: projetada em 1972, foi a primeira linguagem de programação com paradigma lógico.
-    Pascal: Outra importante linguagem, embora atualmente esteja quase sem uso.
+- Simula: inventada nos anos 1960 por Nygaard e Dahl foi a primeira linguagem a suportar o conceito de classes.
+- C: uma das primeiras linguagens de programação de sistemas, criado por Dennis Ritchie e Ken Thompson, tem uma das maiores influencias no mundo atual.
+- Prolog: projetada em 1972, foi a primeira linguagem de programação com paradigma lógico.
+- Pascal: Outra importante linguagem, embora atualmente esteja quase sem uso.
 
 Nos anos 80 surgiu a linguagem C++, que se tornou tão importante quanto o C, entre outras:
 
-    C++: Criada para ser compatível com C, o C++ foi muito importatante, pois é mais simples e dinâmico.
-    Perl: Uma boa linguagem. Ótima para trabalhar em níveis de sobrecarga grandes
+- C++: Criada para ser compatível com C, o C++ foi muito importatante, pois é mais simples e dinâmico.
+- Perl: Uma boa linguagem. Ótima para trabalhar em níveis de sobrecarga grandes
 
 Nos anos 90, a internet surgiu como um furacão, e mudou totalmente o rumo da programação. As linguagens Java e Javascript foram criadas nesta época, ambas relacionadas com a internet, surgiu também a visual Basic e o Object Pascal.
 
-    Java: Linguagem relativamente simples, orientada para objetos, que foi criada com a Idea de revolucionar as linguagens de programação.
-    PHP: Muito importante para o desenvolvimento de aplicativos para WEB, esta linguagem esta cada vez mais tomando conta dos Web sites.
+- Java: Linguagem relativamente simples, orientada para objetos, que foi criada com a Idea de revolucionar as linguagens de programação.
+- PHP: Muito importante para o desenvolvimento de aplicativos para WEB, esta linguagem esta cada vez mais tomando conta dos Web sites.
 
 A programação esta em todos os equipamentos eletrônicos atuais. Cada programa, cada pagina na internet, esta escrita em alguma linguagem de programação. Com o tempo, as linguagens vêm se unindo, formando linguagens mais fortes, e com mais funções.
 
